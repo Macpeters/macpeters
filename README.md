@@ -1,12 +1,9 @@
-# 👋 Hi!  <img width="70" align='right' src="https://img.search.brave.com/Yn2vXt9dQjRcUiGOu0VO5zOOVr7MnIx4-f5uADBrZXw/fit/400/400/ce/1/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfaW1hZ2Vz/LzEyMDA2MTc0MzEy/ODAwNTAxNzYvMTJl/REpQUU0uanBn">
+## 👋 Hi!  <img width="70" align='right' src="https://img.search.brave.com/Yn2vXt9dQjRcUiGOu0VO5zOOVr7MnIx4-f5uADBrZXw/fit/400/400/ce/1/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfaW1hZ2Vz/LzEyMDA2MTc0MzEy/ODAwNTAxNzYvMTJl/REpQUU0uanBn">
 
 
-## I'm Mac Peters.  I build websites.
-### I work professional with Ruby on Rails, along with Javascript (Jquery, React). For my personal sites I like VueJS or React.  I've also made a few games, most recently in Gamemaker.
+### I'm Mac Peters.  
 
-
-<!-- Top Languages -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macpeters&layout=compact)
+I work as a web developer, mainly using Ruby on Rails, with some js (vueJS, React) thrown in. 
 
 <!--
 **Macpeters/macpeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
